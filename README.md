@@ -1,3 +1,5 @@
+  ![Feature Banner](feature-graphic-1024x500.png)
+
 # SixteenEight Issues
 
 Welcome to the public issue tracker for **SixteenEight** - a simple, privacy-focused intermittent fasting app.
