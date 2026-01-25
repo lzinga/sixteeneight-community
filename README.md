@@ -49,10 +49,6 @@ SixteenEight is 100% private - all your data stays on your device. When reportin
 
 If you enjoy SixteenEight, consider [sponsoring on GitHub](https://github.com/sponsors/lzinga)!
 
-## Contact
-
-For private inquiries: support@sixteeneight.app
-
 ---
 
 Thank you for helping make SixteenEight better!
