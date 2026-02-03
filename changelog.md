@@ -1,9 +1,3 @@
-# Changelog
-
-All notable changes to SixteenEight will be documented here.
-
----
-
 ## [v2026.02.02.1812]
 
 ### ✨ New Features
