@@ -1,3 +1,8 @@
+## [v2026.02.03.0941]
+
+### ✨ Features
+- Add silent update check in settings and added changelog button to view this list on the sixteeneight.app website
+
 ## [v2026.02.02.1812]
 
 ### ✨ New Features
