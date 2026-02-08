@@ -1,3 +1,8 @@
+## [v2026.02.08.1409]
+
+### 🐛 Bug Fixes
+ - Fix for notifications not properly working
+
 ## [v2026.02.08.1206]
 
 ### 💅 Improvements
