@@ -1,3 +1,16 @@
+## [v2026.02.08.1206]
+
+### 💅 Improvements
+ - Enhanced community settings/features to make it easier to add more in the future.
+ - Updated it so if you're using community you will be forced to update the app or log out. (This is due to database differences, makes development easier)
+ - Simplified the community dashboard page in the app.
+ - Community page will now refresh the progress bars every few minutes.
+### ♻️ Refactor
+ - Refactored legacy migration
+
+### 🐛 Bug Fixes
+ - Rating percents would be saved as a whole number, updated to save as a decimal allowing more precise percentages.
+
 ## [v2026.02.03.0941]
 
 ### ✨ Features
