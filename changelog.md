@@ -5,6 +5,9 @@
  - Updated it so if you're using community you will be forced to update the app or log out. (This is due to database differences, makes development easier)
  - Simplified the community dashboard page in the app.
  - Community page will now refresh the progress bars every few minutes.
+ - The calendars in stats when clicked will now only show the active months instead of the whole year. (Previous years will still show all)
+ - You can now include attachments in email bug/feedback report easier.
+
 ### ♻️ Refactor
  - Refactored legacy migration
 
