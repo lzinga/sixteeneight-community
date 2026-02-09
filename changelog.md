@@ -1,3 +1,8 @@
+## [v2026.02.08.1732]
+
+### 🐛 Bug Fixes
+ - Active fasters in community were being removed even though they were still fasting. This should not happen anymore.
+
 ## [v2026.02.08.1409]
 
 ### 🐛 Bug Fixes
