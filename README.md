@@ -1,8 +1,15 @@
-  ![Feature Banner](feature-graphic-1024x500.png)
+<div align="center">
 
-# SixteenEight Issues
+  [![SixteenEight](feature-graphic-1024x500.png)](https://sixteeneight.app)
 
-Welcome to the public community/issue-tracker for **SixteenEight** - a simple, privacy-focused intermittent fasting app.
+  <a href="https://play.google.com/store/apps/details?id=com.sixteeneight.app">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
+         alt="Get it on Google Play" 
+         width="200" >
+  </a>
+
+</div>
+
 
 ## Reporting Bugs
 
