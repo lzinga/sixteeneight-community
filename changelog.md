@@ -7,6 +7,7 @@
 ### ♻️ Refactor
 - Improve layout and padding in FastCompleteCelebrationPage for better responsiveness
 - Improve weight menu from being blocked by keyboard/three button navigation bar
+- Updated "Timer" button in the navigation bar to be "Home" instead
 ### 🐛 Bug Fixes
 - Update support email address to reflect new domain
 - Preserve user modifications when converting preset plans to custom
