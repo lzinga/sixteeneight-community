@@ -5,24 +5,6 @@
   # SixteenEight Community
 
   **A privacy-first fasting tracker that keeps your data on your device**
-
-  <div class="badge-container">
-    <div style="display:inline-block; width:200px; vertical-align:middle">
-      <a href="https://play.google.com/store/apps/details?id=com.sixteeneight.app">
-        <img src="images/playstore.svg" 
-             alt="Get it on Google Play"
-             style="max-width:100%; height:auto;">
-      </a>
-    </div>
-    <div style="display:inline-block; width:200px; vertical-align:middle">
-      <a href="#supported-platforms">
-        <img src="images/appstore.svg" 
-             alt="Download on the App Store - Coming Soon"
-             style="margin:6%; width:88%; max-width:100%; height:auto;">
-      </a>
-    </div>
-  </div>
-
 </div>
 
 <div align="center">
