@@ -1,3 +1,7 @@
+## [v2026.02.17.1710]
+### 🐛 Bug Fixes
+- The difficulty calendar button would not work every time
+
 ## [v2026.02.17.1607]
 ### ♻️ Refactor
 - Improved backup and export to use a .zip file format instead of pure JSON (still uses JSON internally, but makes it easier to manage)
