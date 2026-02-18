@@ -1,17 +1,17 @@
 ## [v2026.02.18.1111]
-### Bug Fixes
-- Fixed history not refreshing after fast end
+### 🐛 Bug Fixes
+- Fixed an issue where History did not refresh immediately after ending a fast.
 
 ## [v2026.02.18.1017]
 ### ✨ Features
-Implemented a prompt if you open the app 30 minutes past when a scheduled fast was supposed to start.
+- Added a late-start prompt when opening the app 30+ minutes after a scheduled fast start time.
 
-### ♻️ Refactor
-- Fixes [#7](https://github.com/lzinga/sixteeneight-community/issues/7): Makes it easier to edit a fasts start time if you started late
+### ♻️ Improvements
+- Fixes [#7](https://github.com/lzinga/sixteeneight-community/issues/7): Improved editing of fast start times for late starts.
 
 ## [v2026.02.17.1710]
 ### 🐛 Bug Fixes
-- The difficulty calendar button would not work every time
+- Fixed an intermittent issue where the difficulty calendar button on the Stats page was unresponsive.
 
 ## [v2026.02.17.1607]
 ### ♻️ Refactor
