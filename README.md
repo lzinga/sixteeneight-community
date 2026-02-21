@@ -21,6 +21,7 @@
 - [About](#about)
 - [Supported Platforms](#supported-platforms)
 - [How to Contribute](#how-to-contribute)
+  - [Contributing Guide](CONTRIBUTING.md)
   - [Reporting Bugs](#reporting-bugs)
   - [Feature Requests](#feature-requests)
 - [Privacy Note](#privacy-note)
@@ -40,7 +41,14 @@ SixteenEight is a simple, elegant fasting tracker designed with your privacy in 
 
 ## How to Contribute
 
-We welcome contributions from the community! Whether you've found a bug or have an idea for a new feature, we'd love to hear from you.
+We welcome community feedback! Whether you've found a bug or have an idea for a new feature, we'd love to hear from you.
+
+Before contributing, please read our [Contributing Guide](CONTRIBUTING.md).
+
+This repository is for community feedback and planning, so contributions are
+currently issue-based (bug reports, suggestions, and discussion).
+
+When possible, please use the issue templates to help us triage quickly.
 
 ### Reporting Bugs
 

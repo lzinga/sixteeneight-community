@@ -1,38 +1,30 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Report something that is not working as expected
+title: '[Bug] '
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## What happened?
+Tell us what went wrong in simple words.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## What did you expect instead?
+What did you think should happen?
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Steps to reproduce (if known)
+1. 
+2. 
+3. 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Device info (optional but helpful)
+- Device: (example: Pixel 8, iPhone 14)
+- OS version: (example: Android 15, iOS 18)
+- App version: (from Settings > About, if available)
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Screenshots or recordings (optional)
+Drag and drop images/videos here if they help explain the issue.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## Anything else?
+Add any extra context that might help us investigate.
