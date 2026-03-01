@@ -1,3 +1,21 @@
+## [v2026.03.01.0222]
+### ✨ Features
+- Added **Fast Notes** — add notes to your fasts during, after, and from history. Enable/disable in Settings under Fasting
+- Added **Personal Best** badge on the celebration page when you complete your longest fast ever
+- Added **Last Fast** summary card on the home page so you can see your most recent fast at a glance
+- Added **Haptic feedback** on all key fasting actions (start, complete, extend) for a more tactile feel
+- Added **Pull-to-refresh** on History and Stats pages
+- Added **Notes preference** to the onboarding flow
+
+### ♻️ Refactor
+- Consolidated the About section into a dedicated **About page** (version, updates, links, support, feedback) — settings page is now much cleaner
+- Moved **End of Fast Rating** toggle from Notifications into the main Fasting settings where it belongs
+- Moved **Weight Unit** under Fasting settings instead of its own section
+- Simplified the Notifications page by removing redundant ratings header
+
+### 🐛 Bug Fixes
+- Fixed celebration page not showing after completing a fast
+
 ## [v2026.02.18.1111]
 ### 🐛 Bug Fixes
 - Fixed an issue where History did not refresh immediately after ending a fast.
