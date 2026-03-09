@@ -1,3 +1,8 @@
+## [v2026.03.09.1700]
+### ✨ Features
+- Added **Home Screen Widgets** — see your fasting progress ring right on your home screen without opening the app. Configure widgets from Settings
+- Added **Next Scheduled Fast** display on the home screen widget so you always know when your next fast starts
+
 ## [v2026.03.01.0222]
 ### ✨ Features
 - Added **Fast Notes** — add notes to your fasts during, after, and from history. Enable/disable in Settings under Fasting
