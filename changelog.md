@@ -1,3 +1,9 @@
+## [v2026.03.21.1807]
+
+### ✨ Features
+- Home screen widget now updates automatically in the background — your progress ring stays current even when the app isn't open (Fixes https://github.com/lzinga/sixteeneight-community/issues/9)
+- Optimized widget updates by coalescing rapid changes, reducing battery usage and improving responsiveness
+
 ## [v2026.03.09.1700]
 ### ✨ Features
 - Added **Home Screen Widgets** — see your fasting progress ring right on your home screen without opening the app. Configure widgets from Settings
