@@ -1,3 +1,25 @@
+ ## [v2026.05.30.2024]
+ 
+ ### ✨ Features
+ - **Light & Dark Theme Support** — full system-aware theming with a manual override in Settings. The splash screen now follows your phone's appearance setting too
+ - **Insights on the Stats page** — a new section showing when you typically break your fast, your strongest weekday, and how difficulty changes through a fast (only appears once there's enough rated history to be meaningful)
+ - **Insights in shared images** — when sharing your stats you can now include the new insights section alongside streak, weekly, and lifetime stats
+ - **Safety statement on no milestones or achievements** — a new section under Safety in Settings explaining why the app intentionally avoids gamification. Reachable directly from the info icon on the Stats page
+ - **Month headers on History** — fasts in History are now grouped under clear month headers so it's easier to scan back in time
+ - **Smoother onboarding** — polished transitions, refreshed components, and consistent theming for a cleaner first-run experience
+ 
+ ### 🐛 Bug Fixes
+ - Fixed an intermittent "Bad state" error where rating providers could be disposed while loading, which sometimes prevented the Stats page from rendering
+ - Fixed missed-fast detection edge cases so the late-start prompt appears reliably
+ - Fixed vacation editing to persist changes correctly
+ - Fixed onboarding import to handle a wider range of backup files
+ - Fixed streak calculation around Daylight Saving Time transitions
+ - Fixed home-screen widget refresh logic and clarified its help text
+ - Fixed formatting of the notification-sync warning when scheduling around a vacation
+ 
+ ### ♻️ Refactor
+ - Tidied Selected-Plan and toggle cards in Settings for a more uniform layout
+
 ## [v2026.03.21.1807]
 
 ### ✨ Features
